@@ -1,0 +1,11 @@
+{
+  "name": "ogulo/on-office-sdk",
+  "description": "onOfficeSDK (unofficial fork)",
+  "require": {
+  },
+  "autoload": {
+    "classmap": [
+      "vendor/onOffice/sdk-master/"
+    ]
+  }
+}
